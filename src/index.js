@@ -1,6 +1,7 @@
+/* eslint-disable no-new */
 export default function BaseballGame() {
   this.play = function (computerInputNumbers, userInputNumbers) {
-    return "결과 값 String";
+    return '결과 값 String';
   };
 }
 
